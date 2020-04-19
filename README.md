@@ -33,4 +33,7 @@ Course project of Attali
   5. Combine two strategies together can improve their independent characteristics.
 
 
-  
+- Data used in the article
+  Dow Jones industry average index (DJIA): They have used a reconstructed DJIA, uses the components of 2001-12-31 and fixes them and use the same divisor as the one of 2001-12-31.
+  q
+  h
